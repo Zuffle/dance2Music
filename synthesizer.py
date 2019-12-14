@@ -148,7 +148,7 @@ def main():
 
         return (svg_canvas.tostring(), False)
 
-    pose_camera.run(run_inference, render_overlay)
+    pose_camera.run(run_inference ,render_overlay)
 
 
 if __name__ == '__main__':

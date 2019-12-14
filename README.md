@@ -189,6 +189,14 @@ Now you can run the demo like this:
 python3 synthesizer.py
 ```
 
+## pic_synth.py
+
+This is a frankensteined version of synthesizer designed to only run the synth for a single pose derived from a picture.
+
+We believe it works alright but requires adjustment based on the capabilities of the camera. 
+
+- Eliza, Chris and Justin; ECEN 361 Dance-to-music Team
+
 ## The PoseEngine class
 
 The PoseEngine class (defined in ```pose_engine.py```) allows easy access
